@@ -2,7 +2,8 @@
 <?php
 /** Converting price for matcher [default WAVES: 8 decimal]
 * $n = amount or price
-* $asset1_dec and $asset2_dec = the decimal of any asset
+* $asset1_dec = amountAsset
+* $asset2_dec = priceAsset
 */
 function convert_price($n, $asset2_dec, $asset1_dec = 8)
 {
