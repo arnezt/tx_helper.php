@@ -1,4 +1,4 @@
-# waves_tx_helper
+# waves-tx-helper
 Transaction and matcher conversion helper for Waves DEX
 
 Source of all oderbooks: https://matcher.wavesplatform.com/matcher/orderbook
